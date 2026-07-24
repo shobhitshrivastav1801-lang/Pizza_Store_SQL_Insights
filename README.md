@@ -1,13 +1,13 @@
 ### Pizza Store Insights | SQL Project
 
-Business Problem
+**Business Problem**
 
 A pizza store observed inconsistent order volumes, fluctuating Average Order Value (AOV), and operational delays during peak hours.
 The management wanted a data-driven analysis to understand *order patterns, customer behavior, and operational bottlenecks*.
 
 This project uses *SQL (CTEs & Window Functions)* to analyze transactional data and derive insights that could improve efficiency and revenue.
 
-Objectives
+**Objectives**
 
     Analyze daily and hourly order patterns
     Calculate Average Order Value (AOV)
@@ -15,7 +15,7 @@ Objectives
     Evaluate customer ordering behavior
     Suggest data-backed efficiency improvements
 
-Dataset Structure
+**Dataset Structure**
 
 orders
 
@@ -35,7 +35,7 @@ pizzas
     price
 
 
-SQL Concepts Used
+**SQL Concepts Used**
 
     Common Table Expressions (CTEs)
     Window Functions
