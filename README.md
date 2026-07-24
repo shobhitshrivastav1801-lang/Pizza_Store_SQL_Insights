@@ -1,4 +1,4 @@
-Pizza Store Insights | SQL Project
+### Pizza Store Insights | SQL Project
 
 Business Problem
 
